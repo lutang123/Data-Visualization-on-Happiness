@@ -8,4 +8,4 @@ Programming language: Python, main libraries used: Numpy, Pandas and Plotly.
 
 (tip: go down to the bottom of this page, and click Autoscale for the best view of the chart).
 
-#### for Tableau dashboard: in Happy Country Dashboard with Tableau.twb (need Tabeleau account to display)
+For dashboard: in the file of Happy Country Dashboard with Tableau.twb (need Tabeleau account to display)
